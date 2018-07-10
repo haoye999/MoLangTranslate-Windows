@@ -1,0 +1,11 @@
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\bin\Debug\MoLang_cs.exe.config
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\bin\Debug\MoLang_cs.exe
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\bin\Debug\MoLang_cs.pdb
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.Properties.Resources.resources
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.csproj.GenerateResource.cache
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.csproj.CoreCompileInputs.cache
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.exe
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.pdb
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.Form1.resources
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.UserControls.ucInput.resources
+A:\数据结构课设\MoLang_cs\MoLang_cs\MoLang_cs\obj\Debug\MoLang_cs.csprojAssemblyReference.cache
